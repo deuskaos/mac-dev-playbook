@@ -63,6 +63,7 @@ homebrew_cask_apps:
   #- slack
   - spectacle
   #- sublime-text
+  - telegram-desktop
   #- transmit
   #- vagrant
   - visual-studio-code
