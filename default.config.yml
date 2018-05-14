@@ -6,7 +6,7 @@ configure_sudoers: yes
 configure_terminal: no
 configure_osx: no
 
-dotfiles_repo: https://github.com/kiroushi/dotfiles.git
+dotfiles_repo: https://github.com/deuskaos/dotfiles.git
 dotfiles_repo_accept_hostkey: yes
 dotfiles_repo_local_destination: ~/development/github/dotfiles
 dotfiles_files:
